@@ -1,0 +1,8 @@
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\bin\xachTay.dll
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\bin\xachTay.pdb
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\bin\xachTay.xml
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\obj\Debug\xachTay.Resources.resources
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\obj\Debug\xachTay.vbproj.GenerateResource.Cache
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\obj\Debug\xachTay.dll
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\obj\Debug\xachTay.xml
+\\trtna001\fredirect$\extlet\documents\visual studio 2010\Projects\xachTay\xachTay\obj\Debug\xachTay.pdb
